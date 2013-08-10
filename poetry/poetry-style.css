@@ -1,0 +1,45 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	font-family: gill sans light, century gothic, helvetica neue light;
+	font-size:72px;
+	line-height: 80px;
+	color: #000000;
+}
+
+img {
+	border:none;
+}
+
+a:img {
+	border:none;
+}
+
+a, a:visited {
+	text-decoration: none;
+	color: #ffffff;
+	border:none;
+	outline:none;
+}
+	
+a:hover {
+	color: #000000;
+	border:none;
+}
+
+.container {
+	width:239px;
+	height:100%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+
+.content {
+	position:absolute;
+	text-align:center;
+	top: 50%;
+	height:300px;
+	margin-top:-150px;
+}

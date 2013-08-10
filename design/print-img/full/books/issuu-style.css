@@ -1,0 +1,120 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	background:#ffffff;
+	color:#CCCCCC;
+	font-family: Gill Sans Light, Century Gothic, Helvetica Neue Light, Arial, sans-serif;
+	font-weight:100;
+}
+
+img {
+	border: none;
+}
+
+a {
+	border:none;
+	outline:none;
+}
+
+img a:visited {
+	border:none;
+}
+
+img a: {
+	border:none;
+}
+
+a:hover {
+	border:none;
+}
+ 
+a:visited {
+	border:none;
+}
+ 
+td {
+	vertical-align:top;
+}
+
+.container {
+	width:900px;
+	margin-left:auto;
+	margin-right:auto;
+	}
+	
+.left {
+	margin-top:10px;
+	float:left;
+	width:504px;
+	z-index: 0.9;
+}
+
+.home {
+	position:fixed;
+	right:50px;
+	bottom:10px;
+	z-index: 0.1;
+}
+
+.design {
+	position: fixed;
+	right: 120px;
+	bottom:10px;
+	z-index:0.2;
+}
+
+.forward {
+	position: fixed;
+	bottom: 10px;
+	right: 220px;
+	z-index: 0.3;
+}
+.issuuContainer {
+	text-align:center;
+	font-size:12px;
+	width:600px;
+	margin-left:auto;
+	margin-right: auto;
+}
+	
+.height364 {
+	position: absolute;
+	top: 50%;
+	height:364px;
+	margin-top:-182px;
+}
+
+.height464 {
+	position: absolute;
+	top: 50%;
+	height:464px;
+	margin-top:-232px;
+}
+
+.height404 {
+	position: absolute;
+	top: 50%;
+	height:404px;
+	margin-top:-202px;
+}
+
+.height367 {
+	position: absolute;
+	top: 50%;
+	height:367px;
+	margin-top:-183px;
+}
+
+.height364 {
+	position: absolute;
+	top: 50%;
+	height:364px;
+	margin-top:-182px;
+}
+
+.height182 {
+	position: absolute;
+	top: 50%;
+	height:91px;
+	margin-top:-px;
+}

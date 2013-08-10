@@ -1,0 +1,41 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.arrowContainer {
+	width: 186px;
+	height: 100%;
+	position: absolute;
+	bottom: 0px;
+	left: 1px;
+	margin: 0px;
+	padding: 0px;
+}
+
+.arrow {
+	bottom: 150px;
+	position: absolute;
+}
+
+div {
+	margin: none;
+}
+
+.tableContainer {
+	height: 100%;
+	position: absolute;
+	margin-left:10px;
+	margin-bottom: 0px;
+	left:186px;
+}
+
+.table {
+	bottom: 0px;
+	height:493px;
+	position: absolute;
+}
+
+body {
+	height: 0px;
+	padding:0px;
+	margin: 0px;
+}

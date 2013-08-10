@@ -1,0 +1,155 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	background:#ffffff;
+	color:#000000;
+	font-family: Gill Sans Light, Century Gothic, Helvetica Neue Light, Arial, sans-serif;
+	font-weight:100;
+}
+
+img {
+	border: none;
+}
+
+a {
+	border:none;
+	outline:none;
+}
+
+img a:visited {
+	border:none;
+}
+
+img a: {
+	border:none;
+}
+
+a:hover {
+	border:none;
+}
+ 
+a:visited {
+	border:none;
+}
+ 
+td {
+	vertical-align:top;
+}
+.navholder {
+	height:100%;
+	width:557px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.nav {
+	position:absolute;
+	top: 50%;
+	height:492px;
+	margin-top:-246px;
+	width:557px;
+	padding-left:40px;
+	background-image:url(images/background.jpg);
+}
+
+#print {
+	width: 259px;
+	margin-left: 129px;
+	}
+
+#illustration {
+	float: left;
+	margin-right:1px;
+}
+
+#web {
+}
+
+.container {
+	width:900px;
+	margin-left:auto;
+	margin-right:auto;
+	}
+	
+.left {
+	margin-top:10px;
+	float:left;
+	width:504px;
+	z-index: 0.9;
+}
+
+#buttonHolder {
+	width:176px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#justified {
+	height:96px;
+}
+
+#indent {
+	height:96px;
+	margin-left:56px;
+}
+
+.left a:link span {
+	display: none;
+}
+
+.left a:visited span {
+	display: none;
+}
+
+.left a:hover span {
+	display: block;
+	position: fixed;
+	right:50px;
+	bottom:75px;
+	z-index: 1.0;
+}
+
+.placeholder {
+	position: fixed;
+	right:50px;
+	bottom:60px;
+	width: 345px;
+	height:500px;
+	background-image:url(ill-img/preview/stripes.jpg);
+	z-index: 0.1;
+}
+
+.home {
+	position:fixed;
+	right:50px;
+	bottom:10px;
+	z-index: 0.1;
+}
+
+.design {
+	position: fixed;
+	right: 120px;
+	bottom:10px;
+	z-index:0.2;
+}
+
+.forward {
+	position: fixed;
+	bottom: 10px;
+	right: 220px;
+	z-index: 0.3;
+}
+.issuuContainer {
+	text-align:center;
+	font-size:12px;
+	width:600px;
+	margin-left:auto;
+	margin-right: auto;
+}
+	
+.issuu {
+	position:absolute;
+	top: 50%;
+	height:404px;
+	margin-top:-202px;
+}

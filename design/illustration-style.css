@@ -1,0 +1,47 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	background:#ffffff;
+	color:#000000;
+	font-family: Gill Sans Light, Century Gothic, Helvetica Neue Light, Arial, sans-serif;
+	font-weight:100;
+}
+
+img {
+	border: none;
+}
+
+a {
+	outline:none;
+}
+
+a:hover {
+	border:none;
+ }
+ 
+a:visited {
+	border:none;
+}
+ 
+.nav {
+	width:557px;
+	height:492px;
+	margin-top: 75px;
+	margin-left: auto;
+	margin-right: auto;
+	vertical-align: middle;
+	background-image:url(images/background.jpg);
+}
+
+#print {
+	width: 280px;
+	margin-left: 145px;
+	}
+
+#illustration {
+	float: left;
+	margin-right:1px;
+}
+
+#web {
+}
